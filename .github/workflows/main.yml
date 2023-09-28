@@ -26,5 +26,5 @@ jobs:
               git checkout dev &&
               git fetch --all &&
               git reset --hard origin/dev &&
-              git pull origin dev &&
+              git pull origin dev
               '
